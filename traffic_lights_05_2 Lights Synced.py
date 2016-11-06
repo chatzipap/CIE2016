@@ -1,6 +1,5 @@
 '''
 Δύο φωτεινοί σηματοδότες συγχρονισμένοι
-by tchatz
 '''
 
 from gpiozero import LED
