@@ -1,6 +1,5 @@
 '''
 Σηματοδότης ρυθμιζόμενος ανά ώρα και ημέρα
-by tchatz
 '''
 
 from gpiozero import LED
